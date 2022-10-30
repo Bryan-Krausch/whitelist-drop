@@ -10,6 +10,6 @@ Little program to add all your wallet in a whitelist file for metaplex.
 
 ````
 python index.py
-```
+
 
 All your wallet are added in the whitelist.json file. 
